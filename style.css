@@ -47,8 +47,8 @@ img{
 
 h1{
     font-size: 36px;
-    line-height: 40px;
-    margin-top: 20px;
+    /* line-height: 40px; */
+    margin-top: 10px;
 }
 
 h3{
