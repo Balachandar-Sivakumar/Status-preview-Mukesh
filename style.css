@@ -21,7 +21,7 @@
     /* min-width: 800px; */
     border-radius: 10px;
     overflow: hidden;
-    height: 470px;
+    height: 450px;
 }
 .content{
     width: 38%;
@@ -82,7 +82,7 @@ h3{
         flex-wrap: wrap-reverse;
         width: 80%;
         margin: 30px 30px;
-        height: auto;
+        height: 100%;
         text-align: center;
         
     }
