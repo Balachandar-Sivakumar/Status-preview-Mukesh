@@ -23,8 +23,8 @@
     overflow: hidden;
 }
 .content{
-    width: 36%;
-    padding: 45px 80px;
+    width: 32%;
+    padding: 68px 100px;
     max-width: 560px;
     color: white;
 }
@@ -56,13 +56,13 @@ h3{
 .review{
     display: flex;
     /* justify-content: space-between; */
-    gap: 60px;
+    gap: 70px;
     margin-top: 60px;
 }
 
 .mini-para{
     margin-top: 30px;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 28px;
 }
 
