@@ -15,9 +15,9 @@
 
 .main1{
     display: flex;
-    width: 70%;
+    width: 75%;
     background-color: #1c1938;
-    max-width:1008px;
+    /* max-width:1008px; */
     /* min-width: 800px; */
     border-radius: 10px;
     overflow: hidden;
@@ -60,7 +60,8 @@ h3{
 
 .mini-para{
     margin-top: 30px;
-    font-size: 15px;
+    font-size: 17px;
+    line-height: 30px;
 }
 
 .htag{
