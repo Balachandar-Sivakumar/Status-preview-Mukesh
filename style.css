@@ -16,18 +16,19 @@
 .main1{
     display: flex;
     width: 78%;
+    
     background-color: #1c1938;
-    /* max-width:1008px; */
-    /* min-width: 800px; */
+    
     border-radius: 10px;
     overflow: hidden;
     height: 450px;
 }
 .content{
-    width: 38%;
+    width: 40%;
     padding: 60px 70px;
-    max-width: 560px;
+    /* max-width: 560px; */
     color: white;
+    
 }
 .image1{
     width: 50%;
@@ -47,7 +48,7 @@ img{
 
 h1{
     font-size: 36px;
-    /* line-height: 40px; */
+    line-height: 45px;
     margin-top: 10px;
 }
 
@@ -65,8 +66,9 @@ h3{
 
 .mini-para{
     margin-top: 30px;
-    font-size: 16px;
-    line-height: 28px;
+    font-size: 15px;
+    line-height: 23px;
+    width: 80%;
 }
 
 .htag{
