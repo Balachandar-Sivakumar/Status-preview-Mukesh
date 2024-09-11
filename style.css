@@ -28,11 +28,12 @@
     padding: 60px 70px;
     /* max-width: 560px; */
     color: white;
+    margin-left: 15px;
     
 }
 .image1{
     width: 50%;
-    background-color:hsl(277, 99%, 31%);
+    background-color:hsl(277, 97%, 28%);
     /* filter: grayscale(100%); */
     max-width: 560px;
 }
@@ -62,7 +63,7 @@ h3{
     /* justify-content: space-between; */
     gap: 80px;
     margin-top: 70px;
-    margin-left: 15px;
+    
 }
 
 .mini-para{
