@@ -23,14 +23,16 @@
     overflow: hidden;
 }
 .content{
-    width: 75%;
-    padding: 60px;
+    width: 35%;
+    padding: 45px 80px;
+    max-width: 539px;
     color: white;
 }
 .image1{
-    width: 100%;
+    width: 50%;
     background-color:hsl(277, 99%, 31%);
     /* filter: grayscale(100%); */
+    max-width: 539px;
 }
 
 img{
