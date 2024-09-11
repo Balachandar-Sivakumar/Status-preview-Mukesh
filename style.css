@@ -15,7 +15,7 @@
 
 .main1{
     display: flex;
-    width: 75%;
+    width: 78%;
     background-color: #1c1938;
     /* max-width:1008px; */
     /* min-width: 800px; */
@@ -23,16 +23,16 @@
     overflow: hidden;
 }
 .content{
-    width: 35%;
+    width: 36%;
     padding: 45px 80px;
-    max-width: 539px;
+    max-width: 560px;
     color: white;
 }
 .image1{
     width: 50%;
     background-color:hsl(277, 99%, 31%);
     /* filter: grayscale(100%); */
-    max-width: 539px;
+    max-width: 560px;
 }
 
 img{
@@ -45,7 +45,7 @@ img{
 }
 
 h1{
-    font-size: 36px;
+    font-size: 34px;
 }
 
 h3{
@@ -57,13 +57,13 @@ h3{
     display: flex;
     /* justify-content: space-between; */
     gap: 60px;
-    margin-top: 45px;
+    margin-top: 60px;
 }
 
 .mini-para{
     margin-top: 30px;
-    font-size: 17px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 28px;
 }
 
 .htag{
