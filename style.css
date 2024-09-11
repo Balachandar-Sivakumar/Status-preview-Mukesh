@@ -21,6 +21,7 @@
     /* min-width: 800px; */
     border-radius: 10px;
     overflow: hidden;
+    height: 470px;
 }
 .content{
     width: 38%;
